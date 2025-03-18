@@ -28,8 +28,7 @@ Note: I recommend using [SecList](https://github.com/danielmiessler/SecLists/tre
 - **Subdomain Discovery**: Scans for subdomains using a custom wordlist.
 - **DNS Resolution**: Resolves subdomains to IP addresses using specified DNS servers.
 - **HTTP Header Retrieval**: Fetches HTTP headers, status codes, and HTML titles from discovered subdomains.
-- **SSL Certificate Analysis**: Retrieves SSL certificate details, including validity, issuer, and expiration date.
-- **In-depth SSL/TLS Analysis**: Analyzes supported SSL/TLS protocols and ciphers.
+- **Basic SSL/TLS Analysis**: Analyzes supported SSL/TLS protocols and ciphers.
 - **Concurrency**: High-performance asynchronous requests with customizable concurrency limits.
 - **Custom Headers and Cookies**: Add custom HTTP headers and cookies to requests.
 - **Proxy Support**: Route requests through a proxy by providing a single proxy or uploading a CSV file with proxy details.
